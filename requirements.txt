@@ -1,0 +1,6 @@
+langchain
+openai
+streamlit
+tiktoken
+langchain_community
+langchain_openai
